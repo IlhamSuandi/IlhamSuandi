@@ -1,5 +1,5 @@
 # Hi there 👋 <br>
-I'm a Fullstack Developer with a passion for building web and mobile applications.<br><br>Feel free to explore my projects and connect with me—let's create something awesome together! 🚀
+I'm a Fullstack Developer with a passion for building web and mobile applications.<br>Feel free to explore my projects and connect with me—let's create something awesome together! 🚀
 
 
 ## 🌐 Socials:
