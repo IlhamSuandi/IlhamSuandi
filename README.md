@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi there 👋 <br>
+# Hi there 👋 <br>
 I'm a Fullstack Developer with a passion for building web and mobile applications.<br><br>Feel free to explore my projects and connect with me—let's create something awesome together! 🚀
 
 
@@ -7,6 +6,8 @@ I'm a Fullstack Developer with a passion for building web and mobile application
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilhmardw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-suandi) 
 
 # 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -45,8 +46,6 @@ I'm a Fullstack Developer with a passion for building web and mobile application
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamSuandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=IlhamSuandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlhamSuandi/IlhamSuandi/output/github-snake-dark.svg" />
